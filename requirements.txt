@@ -1,0 +1,8 @@
+httpx
+instagrapi
+pandas
+torch
+transformers
+tqdm
+bitsandbytes
+accelerate
