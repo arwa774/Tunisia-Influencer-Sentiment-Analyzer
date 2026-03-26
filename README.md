@@ -140,8 +140,8 @@ Produit : `user_sentiment_global.csv`
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/your-username/Tunisian-Influencer-Sentiment-Scoring-System.git
-cd Tunisian-Influencer-Sentiment-Scoring-System
+git clone https://github.com/arwa774/Tunisia-Influencer-Sentiment-Analyzer.git
+cd Tunisia-Influencer-Sentiment-Analyzer
 ```
 
 ### 2. Installer les dépendances
