@@ -6,3 +6,4 @@ transformers
 tqdm
 bitsandbytes
 accelerate
+google-api-python-client

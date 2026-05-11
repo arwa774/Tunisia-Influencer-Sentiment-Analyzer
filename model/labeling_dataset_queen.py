@@ -22,7 +22,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 from tqdm import tqdm
 
 # ── Default settings ──────────────────────────────────────────────────────────
-DEFAULT_INPUT  = "/kaggle/input/datasets/wassimsghaier/comments/final_cleaned_youtube_comments.csv"
+DEFAULT_INPUT  = "/kaggle/input/datasets/arwaelhadjmbarek/comments/final_cleaned_youtube_comments.csv"
 DEFAULT_OUTPUT = "/kaggle/working/result_hf_4bit_new.csv"
 DEFAULT_COLUMN = "comment"
 # MODEL_ID       = "Qwen/Qwen2.5-3B-Instruct"
